@@ -1,0 +1,3 @@
+[submodule "libs/flowroute-sdk-v3-python"]
+	path = libs/flowroute-sdk-v3-python
+	url = https://github.com/flowroute/flowroute-sdk-v3-python.git
